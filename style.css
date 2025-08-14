@@ -121,18 +121,17 @@ marquee {
     margin: 3%;
 }
 
-  a:link, a:visited {
-    background-color: #afc149;
-    color: white;
-    padding: 14px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  }
+a:link, a:visited {
+ background-color: #afc149;
+ color: white;
+ padding: 14px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ }
   
-  a:hover, a:active {
+a:hover, a:active {
     background-color: #afc149;
-    
   }
 
 /* چاکسازی بۆ مۆبایل */
@@ -162,6 +161,7 @@ marquee {
         text-align: center;
     }
 }
+
 
 
 
