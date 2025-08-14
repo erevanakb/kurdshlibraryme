@@ -109,6 +109,18 @@ marquee {
     margin: 10px 0;
     padding: 12px;
 }
+.cont{
+    margin: 5% 0 5% 25%;
+    width: 65%;
+}
+.cont img{
+    width: 30px;
+    margin: -5px 10px;
+}
+.cont span{
+    margin: 3%;
+}
+
 
 /* چاکسازی بۆ مۆبایل */
 @media only screen and (max-width: 600px) {
@@ -137,4 +149,5 @@ marquee {
         text-align: center;
     }
 }
+
 
