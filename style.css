@@ -6,6 +6,8 @@
 body{
     background-color: white;
     font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
 }
 .profile{
     width: 1%;
@@ -180,9 +182,9 @@ marquee{
     background-color: red;
   }
 
-@media only screen and (max-width:900px){
+@media only screen and (max-width:600px){
     .profile-info{
-        width: 96%;
+        width: 90%;
 
     }
     .profile img{
@@ -206,3 +208,4 @@ marquee{
 }
 
   
+
